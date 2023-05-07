@@ -1,4 +1,5 @@
 pandas
-skleanr
+sklearn
 numpy
 matplotlib
+scikit-learn
